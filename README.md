@@ -24,6 +24,7 @@ Email Me 👉 ✉️ **shashanksp666@gmail.com** For Collaboration/Project or An
 
 📂 **Featured Projects:**  
 - [📧 SpamEmailPrediction](https://github.com/ShashankPat/Project_Spam_Detection_) – Developed a spam-email classifier on the Mail Data CSV dataset using TF-IDF vectorization and linear regression, achieving 96.7% accuracy with real-time classification and robust precision, recall & F1 metrics.
+- [📧 Neural Language Modeling for Context-Aware Next-Word Prediction](https://github.com/ShashankPat/Next-Word-Prediction/tree/main) - Developed a custom WordPiece Tokenizer (WPT) from scratch, constructing a vocabulary directly from the corpus to efficiently handle subword tokenization.
 - [🩺 CancerDetectionDL](https://github.com/ShashankPat/PCAM_Autoencoder) – Built a deep-learning pipeline on the PCAM dataset using an Autoencoder and ResNet18 for feature extraction, plus fuzzy k-means, k-means, EM clustering and t-SNE for visualization.
 - [❓ EURegQA](https://github.com/ShashankPat/Project-on-RAG) – Engineered a Retrieval-Augmented Generation QA system over the EU AI Act (Reg. (EU) 2024/1689) with Meta Llama3, LangChain & ChromaDB, reaching EM 84% and F1 91% on held-out questions.
 - [🎨 Multi-Tasking Learning](https://github.com/ShashankPat/VIT-MAE) – Explored Vision Transformers (ViT) and Masked Autoencoders (MAE) for multi-task classification & segmentation on MNIST, CIFAR-10 and PASCAL VOC, achieving up to 99.28% accuracy on MNIST and 98.19% on PASCAL VOC classification.
